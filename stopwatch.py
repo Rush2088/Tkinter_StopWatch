@@ -1,3 +1,5 @@
+# tkinter based stopwatch
+
 import tkinter as tk
 import time
 
